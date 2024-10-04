@@ -1,7 +1,7 @@
 MIT License
 
 Copyright (c) 2024 Adam Kazior
-
+/* Licence of the original code author
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,3 +19,74 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+*/
+
+## New proposed FUTO Licence with Open Source Redefinition!:
+## https://futo.org/open-source-definition/
+
+FUTO’s The Open Source Definition
+Open source just means access to the source code.
+
+FUTO adds a few extra restrictions and freedoms.
+
+Things that we don’t want you to do with our software:
+Change our payment links to pay someone other than FUTO.
+Put advertisements or other malware in our software.
+Use our trademarks in modified versions of our software.
+Steal attribution for authorship.
+Things you can do with our software, assuming you don’t do the above:
+Make modifications and run the modified software.
+Share your modifications with others.
+Freeload by using our software without paying us. We don’t want to rip you off so you can extend your free trial indefinitely (please don’t rip us off by refusing to pay after you’ve decided you like it).
+Why Open Source?
+FUTO believes that people are entitled to be in control of their computers. They are entitled to know exactly what their computers are doing. They are entitled to program them how they like.
+
+Why have restrictions?
+FUTO also believes that in order to achieve a high level of quality every piece of software should have a responsible owner. If the software is good they should be proud. If the software is bad it’s their job to make it better. If the software is profitable they should reap the profit. We do not want to unnecessarily reduce an author’s ownership or exclusive right to profit from their hard work.
+
+## https://www.futo.org/about/what-is-futo/
+What is FUTO?
+FUTO is an organization dedicated to developing, both through in-house engineering and investment, technologies that frustrate centralization and industry consolidation.
+
+The Problem
+We used to control our computers. Now our computers are used to control us.
+
+As a handful of giant, essentially unaccountable corporations concentrated more and more resources and power in fewer and fewer places, the people surrendered an unprecedented degree of control over the flow of information and lost sovereignty over their technology.
+
+Neither the free market nor the free and open-source software (FOSS) movement have been able to stop these trends, nor even arrest their rapid acceleration.
+
+FUTO believes in the power of individual freedom and economic competition, yet we must concede the free market is failing to challenge the Tech Giants. Anti-trust enforcement has proven impotent to restore a balance that would actually threaten the oligopoly’s domination.
+
+Capitalism only works when the winners compete with one another. As things stand today, tech entrepreneurs with truly disruptive potential almost always have more to gain by selling out, burying their technology under the warm wing of one of the oligopoly’s conglomerates. Programmers are incentivized to take their talents off the table permanently and leave consumers no better off than they were before.
+
+Meanwhile, the FOSS movement has been equally unable to claw back tech sovereignty from Silicon Valley’s power centers. In many cases, the reasons for this are obvious: a significant part of the most important FOSS foundations and projects are themselves funded by the tech oligopoly.
+
+FUTO Can Help
+The time has come for a new organization wholly dedicated to solving this problem and giving people back control over their technology. That organization is FUTO, founded in 2021 by 18-year Silicon Valley veteran, programmer/founder of Yahoo! Games, and WhatsApp seed investor Eron Wolf.
+
+Through a combination of in-house engineering projects, targeted investments, generous grants, and multi-media public education efforts, we will free technology from the control of the few and recreate the spirit of freedom, innovation, and self-reliance that underpinned the American tech industry only a few decades ago.
+
+FUTO is not reliant on any existing tech company or venture capital firm for its funding. We are not expecting quick profits. We will never cash out with a sale to a megacorporation the moment our technology begins to catch on. We will focus entirely on the mission.
+
+If you share these goals, either as a user or a developer, we ask you to watch this space and get ready to throw off the stultifying limitations of the current state of affairs. We want to return to an era where a substantial portion of computer users can understand, control, and use their technology as they see fit without the approval or input of oligarchs. And we need your help.
+
+Our Three Pledges
+We will never sell out. All FUTO companies and FUTO-funded projects are expected to remain fiercely independent. They will never exacerbate the monopoly problem by selling out to a monopolist.
+We will never abuse our customers. All FUTO companies and FUTO-funded projects are expected to maintain an honest relationship with their customers. Revenue, if it exists, comes from customers paying directly for software and services. “The users are our product” revenue models are strictly prohibited.
+We will always be transparently devoted to making delightful software. All FUTO-funded projects are expected to be open-source or develop a plan to eventually become so. No effort will ever be taken to hide from the people what their computers are doing, to limit how they use them, or to modify their behavior through their software.
+The Five Pillars of FUTOey Software
+1. Source First /Open Source If people are to have control over the computers in their lives, they must have the capability to inspect and modify the software running on them.
+
+2. Self Manageable Servers (if applicable) Servers should be Source First too. It should be relatively easy for a user to run their own server for whatever service their client software needs.
+
+3. Sovereign Identity (if applicable) Servers must allow the user to authenticate with a private/public key pair. Email and phone number authentication is sensible for normies, but it must always be possible for a user to transition to using a sovereign mechanism.
+
+4. Open Databases (if applicable) Crowdsourced content should never be kept hidden in a silo by the crowdsourcer. The creator of the content most likely intended for their work to be distributed as widely as possible. The crowdsourcer must provide reasonable mechanisms for the content to be distributed by others.
+
+5. End-to-end Encryption (if possible) Servers should never be able to leverage their man in the middle status to discern the content of communications between their users.
+
+0. Don’t Suck This applies to all software, FUTOey or not. We have accomplished nothing if our software is sluggish, unreliable, or lacks key features. Our clients need to be delightful. Our servers need to help our clients be delightful.
+
+
+
+W polskim prawie treść umów regulaminów i licencji nie podlega pod ochronę majątkową w ramach prawa autorskiego.
